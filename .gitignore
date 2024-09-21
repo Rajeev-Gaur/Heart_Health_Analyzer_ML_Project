@@ -1,0 +1,12 @@
+# Ignore virtual environments
+.venv/
+
+# Ignore data directories
+data/
+
+# Ignore output files
+output/
+
+
+# Temporary files
+*.tmp
